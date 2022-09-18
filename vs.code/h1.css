@@ -1,0 +1,19 @@
+h1 {
+    color: #4db3a9;
+  }
+  h3 {
+    font-size: 34px;
+  }
+  .weather-app {
+    border: 1px solid #4db3a9;
+    padding: 16px;
+    margin: 20px auto;
+    border-radius: 10px;
+    max-width: 600px;
+  }
+  
+  .temperature {
+    color: #4db3a9;
+    font-weight: 400;
+    line-height: 1;
+  }
